@@ -1,0 +1,1 @@
+This is a public repository containing Software Engineering and Data Science projects that I've worked on. Please let me know if you're having any issues viewing/accessing the files, and I will resolve that asap!  
